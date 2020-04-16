@@ -1,0 +1,23 @@
+.padding4 {
+    padding: 1rem;
+}
+
+.bgGray100 {
+    background: #f7fafc;
+}
+
+.textCenter {
+    text-align: center;
+}
+
+.mediumText {
+    font-size: 48px;
+}
+
+.largeText {
+    font-size: 72px;
+}
+
+.fontBold {
+    font-weight: 700;
+}
